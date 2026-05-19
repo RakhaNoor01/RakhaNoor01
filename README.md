@@ -54,7 +54,7 @@
 
 > I don’t write clean code. I just keep rearranging the chaos until it stops screaming during runtime.
 
-> One day I’ll open this repository again, stare at a function named `fixFinalV2_reallyFinal`, and realize the bug wasn’t in the program, it was in my confidence.
+> One day I’ll reopen my projects again, stare at a function named `fixFinalV2_reallyFinal`, and realize the bug wasn’t in the program, it was in my confidence.
 
 <br clear="right"/>
 <br>
@@ -102,6 +102,17 @@
         <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/API_Integration-000000?style=for-the-badge&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <td align="right" valign="middle" style="padding-right: 20px;">
+        <strong>Design & Prototyping</strong>
+      </td>
+      <td align="left" valign="middle">
+	          <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white">
+	          <img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white">
+	          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+	          <img src="https://img.shields.io/badge/Adobe Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white">
       </td>
     </tr>
     <tr>
