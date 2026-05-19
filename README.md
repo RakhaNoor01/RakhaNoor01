@@ -28,7 +28,7 @@
   <img src="https://i.postimg.cc/L6y8Fqjp/syren.png" width="170" align="right" style="margin-left: 15px;">
   
   <h3>Top Projects (for my own good.)</h3>
-  <a href="https://github.com/Synaptara/File-ghost"><img src="https://img.shields.io/badge/FileGhost-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Secure file sharing, because some code needs to self-destruct gracefully.
+  <a href="https://github.com/RakhaNoor01/RakhaNoor01"><img src="https://img.shields.io/badge/FileGhost-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; The About Me I only proud of.
 
   
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
@@ -67,7 +67,7 @@
 
 <div align="center">
   <p align="center">
-  <img src="https://github.com/Rakhanoor01/Rakhanoor01/blob/output/github-snake-dark.svg" width="100%">
+  <img src="https://github.com/RakhaNoor01/RakhaNoor01/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 </div>
 
