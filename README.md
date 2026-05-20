@@ -1,5 +1,5 @@
 <a href="https://github.com/RakhaNoor01">
-  <img src="https://i.postimg.cc/L6y8Fqjh/header.png" width="100%" alt="Synaptara Banner"/>
+  <img src="https://i.postimg.cc/NFwy4drP/header-(2).png" width="100%" alt="Raks Banner"/>
 </a>
 
 <div align="center">
