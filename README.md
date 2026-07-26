@@ -28,7 +28,7 @@
   <img src="https://i.postimg.cc/L6y8Fqjp/syren.png" width="170" align="right" style="margin-left: 15px;">
   
   <h3>Top Projects (for my own good.)</h3>
-  <a href="https://www.rakkiruu.dev/"><img src="https://img.shields.io/badge/Portofolio01-000000?style=for-the-badge&logo=Google%20Chrome&logoColor=white" valign="middle"></a>&nbsp; Personal Website.
+  <a href="https://www.rakkiruu.dev/"><img src="https://img.shields.io/badge/Portofolio-000000?style=for-the-badge&logo=Google%20Chrome&logoColor=white" valign="middle"></a>&nbsp; Personal Website.\n
   <a href="https://github.com/RakhaNoor01/RakhaNoor01"><img src="https://img.shields.io/badge/RakhaNoor01-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; The About Me I only proud of.
 
   
